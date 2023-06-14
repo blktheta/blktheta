@@ -1,4 +1,4 @@
-# Hi 👋 & Welcome to My Humble Abode 🏠.
+# Hi 👋 & Welcome to My Humble Abode 🏠
 
 ## Data Engineer. Graphic Designer. Scientific Illustrator.
 
