@@ -1,6 +1,6 @@
 # Hi 👋 & Welcome to My Humble Abode 🏠
 
-## Pythonista. Data Engineer. Graphic Designer. Scientific Illustrator.
+## Pythonista. Software Engineer. Graphic Designer. Scientific Illustrator.
 
 I go by Blk Theta θ, I'm a former 🎨 Scientific Illustrator from Sweden that made a career change during the pandemic. My ❤️ lies in everything art, python and computer science related and if you feel the same feel free to reach out. If time permits, please check out my latest projects 📌 below.
 
